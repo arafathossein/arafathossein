@@ -9,7 +9,7 @@
 
 Skills: Python, TensorFlow, Scikit-learn, Pandas, NumPy, SQL, Data Visualization (Matplotlib, Seaborn), Web Scraping (Beautiful Soup, Scrapy, Selenium).
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
